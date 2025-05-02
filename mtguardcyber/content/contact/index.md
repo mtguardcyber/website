@@ -19,7 +19,7 @@ featured_image = 'images/montana-sunset-dcoe-banner.png'
 
 ### Friends and Colleagues
 
-- [The Montana Guard](https://montanaguard.gov/)
+- [The Montana Guard homepage](https://montanaguard.gov/)
 - [Cyber Montana](https://cybermontana.org/)
 - [Montana State University and affiliates](https://www.montana.edu/)
 - [University of Montana and affiliates](https://www.umt.edu/)
