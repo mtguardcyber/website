@@ -1,4 +1,4 @@
-baseURL = 'https://mtguardcyber.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Montana Guard Cyber'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
