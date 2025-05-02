@@ -1,7 +1,7 @@
 # Hugo build output
 /public/
 /resources/
-
+/mtguardcyber/public/
 # Hugo modules (downloaded Go deps)
 hugo_stats.json
 /modules/
