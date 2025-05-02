@@ -7,6 +7,7 @@ featured_image = 'images/montana-sunset-dcoe-banner.png'
 ### Email
 
 - mtguardcyber@army.mil
+- info@mtguardcyber.org
 
 ### Check Out Our GitHub
 
