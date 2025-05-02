@@ -1,6 +1,3 @@
 [site]
 bucket = "./public"
- main = "workers-site/index.js"
-
-[build]
-command = "hugo"
+ main = "index.html"
