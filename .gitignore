@@ -5,9 +5,9 @@
 .hugo_build.lock
 # Hugo modules (downloaded Go deps)
 hugo_stats.json
-/modules/
-go.sum
-go.mod
+#/modules/
+#go.sum
+#go.mod
 
 # OS-specific
 .DS_Store
