@@ -10,4 +10,8 @@ featured_image = 'images/montana-sunset-dcoe-banner.png'
 
 ### Check Out Our GitHub
 
-- [The MTGuardCyber GitHub](https://github.com/mtguardcyber)
+- [MTGuardCyber GitHub](https://github.com/mtguardcyber)
+
+### Our Army 365 Page
+
+- [Sharepoint Link (NIPR Only)](https://armyeitaas.sharepoint-mil.us/sites/NGMT-Staff/SitePages/DCOE.aspx)
