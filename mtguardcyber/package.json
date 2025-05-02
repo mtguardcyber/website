@@ -1,0 +1,8 @@
+{
+  "name": "mtguardcyber-website",
+  "version": "1.0.0",
+  "description": "Montana National Guard Cyber Team Website",
+  "scripts": {
+    "build": "hugo --minify"
+  }
+}

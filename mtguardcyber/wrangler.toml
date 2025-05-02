@@ -1,0 +1,7 @@
+[site]
+bucket = "./public"
+entry-point = "workers-site"
+
+[build]
+command = "hugo --minify"
+upload.format = "directory"
