@@ -2,6 +2,7 @@
 /public/
 /resources/
 /mtguardcyber/public/
+.hugo_build.lock
 # Hugo modules (downloaded Go deps)
 hugo_stats.json
 /modules/
