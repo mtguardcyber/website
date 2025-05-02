@@ -1,7 +1,6 @@
 [site]
 bucket = "./public"
-entry-point = "workers-site"
+ main = "workers-site/index.js"
 
 [build]
-command = "hugo --minify"
-upload.format = "directory"
+command = "hugo"
