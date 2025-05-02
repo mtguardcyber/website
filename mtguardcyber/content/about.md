@@ -1,7 +1,7 @@
 +++
 draft = false
 title = 'About Us'
-featured_image = '/images/montana-sunset-dcoe-banner.png'
+featured_image = 'images/montana-sunset-dcoe-banner.png'
 +++
 
 Created in 2018, the Montana Army National Guard (MTARNG) Cyber Team is the Montana Guard's cyber asset. Our mission set includes DODIN defense, public sector incident response, and public sector assessment and engagement with Montana institutions and organizations.

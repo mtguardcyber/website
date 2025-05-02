@@ -1,7 +1,7 @@
 +++
 draft = false
 title = 'Contact Us'
-featured_image = '/images/montana-sunset-dcoe-banner.png'
+featured_image = 'images/montana-sunset-dcoe-banner.png'
 +++
 
 ### Email
