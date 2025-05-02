@@ -1,3 +1,0 @@
-[site]
-bucket = "./public"
- main = "workers-site/index.html"
