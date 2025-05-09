@@ -40,12 +40,7 @@ omit_header_text = true
     name = "About"
     url = "/about/"
     weight = 1
-
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 2
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 3
