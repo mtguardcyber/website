@@ -10,10 +10,13 @@ The following lists are free services, open-source software and software lists, 
 We provide these "As-Is" and without official endorsement or warranty. 
 
 
-## Free CISA Services for Public Entities 
+## Free CISA Services
 
 - [CISA's CyberHygine Service](https://www.cisa.gov/cyber-hygiene-services): free vulnerability scanning of any publicly available systems 
 - [CISA's Free Services webpage](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
+- [CISA's Public Learning Portal](https://learning.cisa.gov/login/index.php): Free virtual cybersecurity training for the public. Register using a [login.gov](https://www.login.gov/) account.
+    - If you used FedVTE in the past, this is its replacement. 
+- [ICS/OT Training Portal](https://ics-training.inl.gov/learn): Free virtual training on ICT/Operational Technology ran by Idaho National Laboratory. Open to the public, register using a [login.gov](https://www.login.gov/) account
 
 ## Free Software Lists
 
