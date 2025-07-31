@@ -3,6 +3,7 @@ draft = false
 title = 'MSU Incident Response - October 2023'
 featured_image = 'images/montana-sunset-dcoe-banner.png'
 date = 2023-05-09T10:00:00-00:00
+images = ["/images/DCOE_Logo_Transparent_Sides.png"]
 +++
 
 [Related NBC Article](https://nbcmontana.com/news/local/montana-national-guard-responds-to-cyber-attack-at-msu)

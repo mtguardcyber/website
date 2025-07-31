@@ -3,6 +3,7 @@ draft = false
 title = 'Free Training and Guides'
 featured_image = 'images/montana-sunset-dcoe-banner.png'
 date = 2025-05-09T10:00:00-00:00
+images = ["/images/DCOE_Logo_Transparent_Sides.png"]
 +++
 
 The following lists are free training services, open-source software and software lists, and other free training resources. We provide these "As-Is" and without official endorsement or warranty. 
