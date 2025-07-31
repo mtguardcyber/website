@@ -1,0 +1,1 @@
+/articles/*  /news_articles/:splat  301!
