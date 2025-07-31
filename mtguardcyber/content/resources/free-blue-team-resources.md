@@ -3,6 +3,7 @@ draft = false
 title = 'Free Blue Team Resources'
 featured_image = 'images/montana-sunset-dcoe-banner.png'
 date = 2025-05-09T10:00:00-00:00
+images = ["/images/DCOE_Logo_Transparent_Sides.png"]
 +++
 
 The following lists are free services, open-source software and software lists, and other free resources available to any organization, tailored to the "Blue Team", the defenders. 

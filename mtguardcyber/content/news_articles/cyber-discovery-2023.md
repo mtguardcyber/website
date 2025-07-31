@@ -3,6 +3,7 @@ draft = false
 title = 'Cyber Discovery 2023'
 featured_image = 'images/montana-sunset-dcoe-banner.png'
 date = 2023-06-12T10:00:00-00:00
+images = ["/images/DCOE_Logo_Transparent_Sides.png"]
 +++
 
 

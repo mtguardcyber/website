@@ -3,6 +3,7 @@ draft = false
 title = 'CyberCat IRT Project - 2024'
 featured_image = 'images/montana-sunset-dcoe-banner.png'
 date = 2024-10-03T10:00:00-00:00
+images = ["/images/DCOE_Logo_Transparent_Sides.png"]
 +++
 
 [Related Facebook Post](https://www.facebook.com/story.php/?story_fbid=970923394852484&id=100058044968508)

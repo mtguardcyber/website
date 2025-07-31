@@ -3,6 +3,7 @@ draft = false
 title = 'CyberShield 2018'
 featured_image = 'images/montana-sunset-dcoe-banner.png'
 date = 2018-05-17T10:00:00-00:00
+images = ["/images/DCOE_Logo_Transparent_Sides.png"]
 +++
 
 
