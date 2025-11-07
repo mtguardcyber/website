@@ -2,7 +2,7 @@
 draft = false
 title = 'CyberGriz IRT Project - 2025'
 featured_image = 'images/montana-sunset-dcoe-banner.png'
-date = 2025-10-16T10:00:00-00:00
+date = 2025-11-06T10:00:00-00:00
 images = ["/images/DCOE_Logo_Transparent_Sides.png"]
 +++
 
