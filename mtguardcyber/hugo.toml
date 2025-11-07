@@ -3,7 +3,6 @@ relativeURLs = true
 canonifyURLs = false
 languageCode = 'en-us'
 title = 'Montana Guard Cyber'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
