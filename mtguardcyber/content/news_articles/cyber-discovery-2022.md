@@ -17,7 +17,7 @@ During the second week, teams were assigned to provided CRR assessments to the f
 
 The exercise took place within the framework of the Department of Defense’s [Innovative Readiness Training program](https://irt.defense.gov/).
 
-“There’s a benefit for our team to have a mutual third party provide an overview of our controls with regard to cyber security,” said Jennifer Dvorak, chief information security officer for Idaho Courts. “It helps us understand where to focus our energy.” 
+“There’s a benefit for our team to have a mutual third party provide an overview of our controls with regard to cyber security,” said Jennifer Dvorak, chief information security officer for Idaho Courts. “It helps us understand where to focus our energy.”
 
 IRT projects such as this excerise are typically "unfunded" by the mission partner, with the supporting National Guard troops utilizing their statutory drill and annual training days to conduct the exercise. Mission Partners recieve the assessments at no cost, providing valuable cybersecurity assessment feedback that would otherwise be fiscally out-of-reach. In addition, the assessment can be used by agencies to apply for grants for additional funding and improvements.
 
