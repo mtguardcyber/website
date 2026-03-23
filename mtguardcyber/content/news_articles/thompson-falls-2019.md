@@ -14,6 +14,7 @@ The request for assistance came through the Montana Department of Emergency Serv
 
 The DCOE team defends against local attacks on Department of Defense networks. The governor can also call upon the team to assist with defensive cyber operations during an incident that affects the state, when civilian assets are unavailable or exhausted.
 
-The Montana National Guard stands ready and prepared to assist the citizens of Montana with the initial response when cyber incidents affect critical infrastructure. 
+The Montana National Guard stands ready and prepared to assist the citizens of Montana with the initial response when cyber incidents affect critical infrastructure.
 
 The MTARNG has openings in information technology, signal, and cyber career fields across Montana. These roles offer industry-standard training, certifications, and great benefits. For more information, contact a local recruiter or visit [The MTARNG Recruiting Website](https://nationalguard.com/montana).
+
