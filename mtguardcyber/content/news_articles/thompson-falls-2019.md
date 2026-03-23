@@ -17,4 +17,3 @@ The DCOE team defends against local attacks on Department of Defense networks. T
 The Montana National Guard stands ready and prepared to assist the citizens of Montana with the initial response when cyber incidents affect critical infrastructure.
 
 The MTARNG has openings in information technology, signal, and cyber career fields across Montana. These roles offer industry-standard training, certifications, and great benefits. For more information, contact a local recruiter or visit [The MTARNG Recruiting Website](https://nationalguard.com/montana).
-
