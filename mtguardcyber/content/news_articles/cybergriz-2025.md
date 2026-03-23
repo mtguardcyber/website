@@ -16,4 +16,4 @@ The event was a cap on an [Innovative Readiness Training (IRT)](https://irt.defe
 
 🎙“We’re proud to work alongside UM to deliver training that benefits both our Guard units and Montana’s students,” said Lt Col Antonio L. Lecce, Army Chief Information Officer/G-6 for the Montana Army National Guard.
 
-The MTARNG has openings in information technology, signal, and cyber career fields across Montana. These roles offer industry-standard training, certifications, and great benefits. For more information, contact a local recruiter or visit [The MTARNG Recruiting Website](https://montanaguard.net/).
+The MTARNG has openings in information technology, signal, and cyber career fields across Montana. These roles offer industry-standard training, certifications, and great benefits. For more information, contact a local recruiter or visit [The MTARNG Recruiting Website](https://nationalguard.com/montana).
